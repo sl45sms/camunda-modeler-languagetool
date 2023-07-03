@@ -1,0 +1,6 @@
+build/*
+!build/bundle.js
+!build/menu.js
+node_modules
+yarn-error.log
+trash
